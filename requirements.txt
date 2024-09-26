@@ -3,6 +3,5 @@ pandas
 numpy
 scikit-learn
 networkx
-ast
 nltk
 pyvis
